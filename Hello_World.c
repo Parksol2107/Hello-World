@@ -4,7 +4,7 @@ int main(){
     printf("First commit\n");
     printf("Second commit\n");
     for (i=0;i<5;i++){
-        printf("ÈÖ¿¬ ¼±¹è ¿¬±Ø ¸ÚÀÖ´Ù\n"); 
+        printf("*\n");
     }
     return 0;
 }
